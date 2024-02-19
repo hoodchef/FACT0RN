@@ -105,7 +105,7 @@ We have created a python script to mine. Here's what you will need to mine:
 
 1. Wallet
 2. Python 3
-3. Put it all togehter
+3. Put it all together
 
 First, we need a node running. See the installation section. Once you have your
 node running here's how to create a wallet, generate an address and extract the 
